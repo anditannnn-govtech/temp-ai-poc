@@ -3,7 +3,6 @@
 ! public: false
 ! author: Andi Tan
 
-$discard
 $discard,site=yahoo.com
 $discard,site=facebook.com
 $discard,site=x.com
