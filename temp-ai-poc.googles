@@ -23,6 +23,6 @@ $discard,site=99.co
 $discard,site=renopedia.sg
 $discard,site=singsaver.com.sg
 $discard,site=sgpromos.com
-$boost=5,site=shopee.sg
-$boost=5,site=lazada.sg
-$boost=5,site=amazon.sg
+$boost=5,site=*/shopee.sg
+$boost=5,site=*/lazada.sg
+$boost=5,site=*/amazon.sg
